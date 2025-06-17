@@ -2,7 +2,7 @@
 [![Ghost: G0ldSec](https://img.shields.io/badge/blog-visit-red)](https://blog.goldsec.de)
 [![X.com G0ldSec](https://img.shields.io/twitter/follow/G0ldSec?label=follow&style=social)](https://x.com/G0ldSec)
 
-## ᓚᘏᗢ About Me
+## ☜(⌒▽⌒)☞ About Me
 
 I'm **G0ldSec** – another Penetration Tester and passionate security researcher based in Europe.
 
