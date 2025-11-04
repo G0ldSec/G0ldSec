@@ -4,7 +4,7 @@
 
 ## ☜(⌒▽⌒)☞ About Me
 
-I'm **ChiZu** – another Penetration Tester and passionate security researcher based in Europe.
+I'm **ChiZu**, another Penetration Tester and passionate security researcher based in Europe.
 
 ```MD
 - Pentester by profession
