@@ -14,4 +14,6 @@ I'm **ChiZu** – another Penetration Tester and passionate security researcher 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=G0ldSec&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0ldSec&hide=TeX&layout=compact&theme=radical&cache_seconds=3600)
 
-![Alt text](https://giphy.com/gifs/peeweeherman-pee-wee-herman-pee-wee-peewee-SBU0Iv25OQEUlGBJMr)
+
+![hippo](https://giphy.com/gifs/peeweeherman-pee-wee-herman-pee-wee-peewee-SBU0Iv25OQEUlGBJMr)
+
