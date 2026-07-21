@@ -11,5 +11,4 @@ I'm **ChIzu**, another Penetration Tester and passionate security researcher bas
 - Cloud is my playground
 - Always learning, always cracking
 ```
-![Github Stats](https://github-readme-stats.vercel.app/api?username=G0ldSec&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0ldSec&hide=TeX&layout=compact&theme=radical&cache_seconds=3600)
+[![My GitFut card](https://gitfut.com/G0ldSec.png)](https://gitfut.com/G0ldSec)
