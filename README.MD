@@ -8,7 +8,7 @@ I'm **ChIzu**, another Penetration Tester and passionate security researcher bas
 
 ```MD
 - Pentester by profession
-- Malware is my playground
+- Cloud is my playground
 - Always learning, always cracking
 ```
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=G0ldSec&show_icons=true&theme=radical) 
