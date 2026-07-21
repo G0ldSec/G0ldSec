@@ -11,6 +11,6 @@ I'm **ChIzu**, another Penetration Tester and passionate security researcher bas
 - Cloud is my playground
 - Always learning, always cracking
 ```
-<a href="https://gitfut.com/G0ldSec?country=es">
-  <img src="https://gitfut.com/G0ldSec.png" alt="My GitFut card" width="300">
+<a href="https://gitfut.com/G0ldSec.png?country=es">
+  <img src="https://gitfut.com/G0ldSec.png?country=es" alt="My GitFut card" width="300">
 </a>
