@@ -8,7 +8,7 @@ I'm **ChIzu**, another Penetration Tester and passionate security researcher bas
 
 ```MD
 - Pentester by profession
-- Cloud is my playground
+- AD & Azure are my playgrounds
 - Always learning, always cracking
 ```
 <a href="https://gitfut.com/G0ldSec.png?country=es">
