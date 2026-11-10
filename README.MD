@@ -3,5 +3,5 @@
 [![Follow on X](https://img.shields.io/twitter/follow/Gl4d?label=follow&style=social)](https://x.com/G0ldSec)
 
 <p align="center">
-  <img src="./assets/header.svg" alt="GoldSec Banner">
+  <img src="https://raw.githubusercontent.com/G0ldSec/assets/main/header.svg" />
 </p>
