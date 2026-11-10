@@ -14,3 +14,6 @@ I'm **ChIzu**, another Penetration Tester and passionate security researcher bas
 <a href="https://gitfut.com/G0ldSec.png?country=es">
   <img src="https://gitfut.com/G0ldSec.png?country=es" alt="My GitFut card" width="300">
 </a>
+<p align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?username=GoldSec">
+</p>
